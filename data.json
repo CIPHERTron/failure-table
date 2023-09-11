@@ -1,0 +1,305 @@
+{
+ "pr:pull-kubernetes-node-kubelet-serial-cpu-manager": {
+   "failing_days": 1291
+ },
+ "test-infra-fuzz": {
+   "failing_days": 703
+ },
+ "pr:pull-kubernetes-node-kubelet-serial-containerd-kubetest2": {
+   "failing_days": 685
+ },
+ "ci-kubernetes-e2e-gci-gce-flaky": {
+   "failing_days": 665
+ },
+ "ci-crio-cgroupv1-node-e2e-eviction": {
+   "failing_days": 640
+ },
+ "pr:pull-kops-e2e-k8s-gce-ci": {
+   "failing_days": 635
+ },
+ "ci-kubernetes-e2e-windows-containerd-gce-master": {
+   "failing_days": 500
+ },
+ "ci-kubernetes-e2e-gci-gce-autoscaling-migs": {
+   "failing_days": 488
+ },
+ "ci-kubernetes-e2e-gci-gce-autoscaling": {
+   "failing_days": 487
+ },
+ "ci-kubernetes-e2e-windows-win2022-containerd-gce-master": {
+   "failing_days": 460
+ },
+ "ci-test-infra-branchprotector": {
+   "failing_days": 335
+ },
+ "e2e-kops-grid-cilium-eni-amzn2-k25": {
+   "failing_days": 292
+ },
+ "e2e-kops-grid-cilium-eni-rhel8-k24": {
+   "failing_days": 290
+ },
+ "e2e-kops-grid-cilium-eni-amzn2-k24": {
+   "failing_days": 287
+ },
+ "e2e-kops-grid-cilium-eni-rhel8-k25": {
+   "failing_days": 286
+ },
+ "e2e-kops-gce-leader-migration": {
+   "failing_days": 274
+ },
+ "e2e-kops-grid-cilium-eni-rhel8-k26": {
+   "failing_days": 273
+ },
+ "e2e-kops-grid-cilium-eni-amzn2-k26": {
+   "failing_days": 270
+ },
+ "e2e-kops-grid-cilium-eni-amzn2-k24-ko26": {
+   "failing_days": 261
+ },
+ "e2e-kops-grid-cilium-eni-rhel8-k26-ko26": {
+   "failing_days": 260
+ },
+ "pr:pull-kubernetes-e2e-kind-canary": {
+   "failing_days": 260
+ },
+ "e2e-kops-grid-cilium-eni-rhel8-k24-ko26": {
+   "failing_days": 259
+ },
+ "e2e-kops-grid-cilium-eni-amzn2-k25-ko26": {
+   "failing_days": 258
+ },
+ "e2e-kops-grid-cilium-eni-rhel8-k25-ko26": {
+   "failing_days": 256
+ },
+ "e2e-kops-grid-cilium-eni-amzn2-k26-ko26": {
+   "failing_days": 255
+ },
+ "ci-kubernetes-e2e-capz-master-windows-service-proxy": {
+   "failing_days": 216
+ },
+ "ci-kubernetes-e2e-capz-master-windows-hyperv": {
+   "failing_days": 189
+ },
+ "ci-k8sio-file-promo-mirrors": {
+   "failing_days": 187
+ },
+ "ci-kubernetes-node-kubelet-serial-cri-o": {
+   "failing_days": 186
+ },
+ "gcr-to-ar-sync-us": {
+   "failing_days": 171
+ },
+ "ci-gcp-compute-persistent-disk-csi-driver-release-staging-k8s-master-integration": {
+   "failing_days": 147
+ },
+ "ci-gcp-compute-persistent-disk-csi-driver-latest-k8s-master-integration": {
+   "failing_days": 140
+ },
+ "ci-gcp-compute-persistent-disk-csi-driver-latest-k8s-master-integration-canary-sidecars": {
+   "failing_days": 140
+ },
+ "ci-kubernetes-node-kubelet-containerd-performance-test": {
+   "failing_days": 137
+ },
+ "ci-cri-containerd-node-e2e-unlabelled": {
+   "failing_days": 137
+ },
+ "ci-cri-containerd-node-e2e-features": {
+   "failing_days": 136
+ },
+ "ci-kubernetes-e2e-gce-stable2-stable1-gci-kubectl-skew": {
+   "failing_days": 135
+ },
+ "ci-gce-pd-csi-driver-latest-k8s-master-windows-2019": {
+   "failing_days": 131
+ },
+ "hourly-soak-tests-capz-windows-2019": {
+   "failing_days": 124
+ },
+ "post-k8sio-groups": {
+   "failing_days": 118
+ },
+ "ci-k8sio-groups": {
+   "failing_days": 117
+ },
+ "periodic-secrets-store-csi-driver-inplace-upgrade-test-e2e-provider": {
+   "failing_days": 115
+ },
+ "ci-kubernetes-e2e-gce-network-metric-measurement": {
+   "failing_days": 111
+ },
+ "kubernetes-verify-go-licenses-periodical": {
+   "failing_days": 108
+ },
+ "e2e-kops-do-calico-fqdn": {
+   "failing_days": 101
+ },
+ "periodic-cluster-api-provider-aws-e2e-conformance-with-k8s-ci-artifacts-release-2-0": {
+   "failing_days": 91
+ },
+ "e2e-kops-grid-cilium-eni-amzn2-k24-ko27": {
+   "failing_days": 83
+ },
+ "e2e-kops-grid-cilium-eni-flatcar-k26-ko27": {
+   "failing_days": 83
+ },
+ "e2e-kops-grid-cilium-eni-amzn2-k27-ko27": {
+   "failing_days": 82
+ },
+ "e2e-kops-grid-cilium-eni-rhel8-k25-ko27": {
+   "failing_days": 82
+ },
+ "e2e-kops-grid-cilium-eni-amzn2-k27": {
+   "failing_days": 80
+ },
+ "e2e-kops-grid-cilium-eni-rhel8-k24-ko27": {
+   "failing_days": 80
+ },
+ "e2e-kops-grid-cilium-eni-rhel8-k26-ko27": {
+   "failing_days": 80
+ },
+ "e2e-kops-grid-cilium-eni-amzn2-k25-ko27": {
+   "failing_days": 79
+ },
+ "e2e-kops-grid-cilium-eni-amzn2-k26-ko27": {
+   "failing_days": 79
+ },
+ "e2e-kops-grid-cilium-eni-rhel8-k27": {
+   "failing_days": 79
+ },
+ "e2e-kops-grid-cilium-eni-rhel8-k27-ko27": {
+   "failing_days": 78
+ },
+ "pr:pull-kubernetes-e2e-capz-windows-alpha-feature-vpa": {
+   "failing_days": 76
+ },
+ "ci-cgroupv1-containerd-node-e2e-ec2-eks": {
+   "failing_days": 68
+ },
+ "ci-cgroupv1-containerd-node-arm64-e2e-ec2-eks": {
+   "failing_days": 57
+ },
+ "ci-k8s-triage-robot-cla": {
+   "failing_days": 53
+ },
+ "ci-k8s-triage-robot-close-issues": {
+   "failing_days": 52
+ },
+ "ci-k8s-triage-robot": {
+   "failing_days": 52
+ },
+ "ci-k8s-triage-robot-close-prs": {
+   "failing_days": 52
+ },
+ "ci-k8s-triage-robot-rotten-issues": {
+   "failing_days": 52
+ },
+ "ci-k8s-triage-robot-rotten-prs": {
+   "failing_days": 52
+ },
+ "ci-k8s-triage-robot-stale-issues": {
+   "failing_days": 52
+ },
+ "ci-k8s-triage-robot-thaw-prs": {
+   "failing_days": 52
+ },
+ "ci-k8s-triage-robot-retriage-important": {
+   "failing_days": 52
+ },
+ "ci-k8s-triage-robot-retriage": {
+   "failing_days": 52
+ },
+ "ci-k8s-triage-robot-stale-prs": {
+   "failing_days": 52
+ },
+ "ci-k8s-triage-robot-retester": {
+   "failing_days": 52
+ },
+ "ci-k8s-triage-robot-stable-metrics": {
+   "failing_days": 52
+ },
+ "ci-k8s-triage-robot-retriage-critical": {
+   "failing_days": 52
+ },
+ "ci-kubernetes-e2e-gci-gce-flaky-repro": {
+   "failing_days": 50
+ },
+ "e2e-kops-grid-cilium-eni-flatcar-k26": {
+   "failing_days": 48
+ },
+ "pr:pull-kubernetes-e2e-gce-scale-performance-manual": {
+   "failing_days": 46
+ },
+ "e2e-kops-do-calico-gossip": {
+   "failing_days": 40
+ },
+ "pr:pull-kubernetes-node-kubelet-serial-containerd": {
+   "failing_days": 39
+ },
+ "ci-kubernetes-unit-windows-master": {
+   "failing_days": 34
+ },
+ "e2e-kops-grid-cilium-eni-flatcar-k25-ko26": {
+   "failing_days": 32
+ },
+ "e2e-kops-grid-calico-rhel8-k26": {
+   "failing_days": 31
+ },
+ "e2e-kops-aws-upgrade-k127-ko126-to-k127-ko128": {
+   "failing_days": 7
+ },
+ "e2e-kops-grid-flannel-u2004-k28": {
+   "failing_days": 7
+ },
+ "e2e-kops-aws-upgrade-k127-ko126-to-k127-ko128-many-addons": {
+   "failing_days": 7
+ },
+ "e2e-kops-grid-cilium-eni-amzn2-k28": {
+   "failing_days": 7
+ },
+ "pr:pull-kubernetes-node-kubelet-serial-containerd-alpha-features": {
+   "failing_days": 5
+ },
+ "e2e-kops-grid-calico-amzn2-k28": {
+   "failing_days": 5
+ },
+ "e2e-kops-grid-kopeio-u2204-k28": {
+   "failing_days": 5
+ },
+ "pr:pull-kubeadm-kinder-upgrade-latest-canary": {
+   "failing_days": 3
+ },
+ "pr:pull-kubeadm-kinder-verify-canary": {
+   "failing_days": 3
+ },
+ "e2e-kops-grid-cilium-etcd-flatcar-k28": {
+   "failing_days": 3
+ },
+ "e2e-kops-grid-flannel-amzn2-k28": {
+   "failing_days": 3
+ },
+ "e2e-kops-grid-flannel-deb10-k28": {
+   "failing_days": 3
+ },
+ "e2e-kops-grid-flannel-rhel8-k28": {
+   "failing_days": 3
+ },
+ "e2e-kops-grid-kubenet-rhel8-k28": {
+   "failing_days": 3
+ },
+ "e2e-kops-grid-cilium-eni-rhel8-k28": {
+   "failing_days": 1
+ },
+ "e2e-kops-grid-flannel-flatcar-k28": {
+   "failing_days": 1
+ },
+ "e2e-kops-grid-flannel-u2204-k28": {
+   "failing_days": 1
+ },
+ "e2e-kops-grid-kubenet-deb10-k28": {
+   "failing_days": 1
+ },
+ "pr:pull-kubernetes-e2e-ec2-cloud-provider-canary": {
+   "failing_days": 1
+ }
+}
